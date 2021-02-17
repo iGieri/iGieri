@@ -2,7 +2,7 @@
 
 I'm Federico Gerardi, 17, Full-Stack Dev.
 
-- 💻 I'm confident with ReactJS, Next.js, Gatsby.js.
+- 💻 I'm confident with Python, ReactJS, Next.js, Gatsby.js.
 - 🌱 I’m currently learning Vue.js, Go.
 - 📫 Check out my [Portfolio](https://federicogerardi.it)
 
