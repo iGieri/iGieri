@@ -1,12 +1,7 @@
-
-<a href="https://discord.com/users/434382065849466893">
-  <img src="https://lanyard-profile-readme.vercel.app/api/434382065849466893" align="right" />
-</a>
-
 ### Hi there 👋
 
 
-I'm Federico Gerardi, 18, Full-Stack Dev.
+I'm Federico Gerardi, 19, Full-Stack Dev.
 
 - 💻 I'm confident with Python, JavaScript, ReactJS and SCSS.
 - 🌱 I’m currently Swift.
