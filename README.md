@@ -5,7 +5,7 @@ I'm Federico Gerardi, 19, Full-Stack Dev.
 
 - 💻 I'm confident with Python, JavaScript, ReactJS and SCSS.
 - 🌱 I’m currently learning Swift.
-- 🔧 I'm currently working on some iOS apps
+- 🔧 I'm currently working on Pummarola and Mastodon
 
 <br>
 
